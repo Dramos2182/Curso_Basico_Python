@@ -17,7 +17,7 @@ print(planetas)
 planetas.add('Tierra')
 print(planetas)
 
-#Eleminiar elementos
+#Eliminiar elementos
 planetas.remove('Tierra')
 print(planetas)
 
